@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Página con etiquetas</title>
+  </head>
+  <body style="height: 431px;">
+    <h1 style="background-color: #fff791;">Julian Casablancas </h1>
+    <p style="background-color: #fffe9c; margin-top: -12px; height: 112px;">Julian
+      Fernando Casablancas (Nueva York, Estados Unidos, 23 de agosto de 1978)1​
+      es un cantante y compositor estadounidense, conocido por ser el vocalista
+      de la banda de rock The Strokes. También trabajó como solista durante el
+      hiatus del grupo, durante el que publicó el álbum Phrazes for the Young el
+      3 de noviembre de 2009. En 2013, formó la banda de rock alternativo The
+      Voidz, con la que editó Tyranny en 2014 y Virtue en 2018, ambos
+      distribuidos por su propio sello, Cult Records. Tyranny ocupó el puesto
+      número 50 en la lista de NME Top 50 Albums Of 2014 list.2​ </p>
+    <ul>
+      <li style="background-color: #ffd4c4; margin-top: 44px;"><a href="The%20Strokes.html"><span
+            style="color: #0000ee;"><span style="color: #3366ff;">The Strokes</span></span></a></li>
+      <li style="background-color: #ffcec1; margin-top: 10px;"><a href="The%20Voidz.html"><span
+            style="color: #3366ff;">The Voidz</span><br>
+        </a></li>
+      <li style="background-color: #ffd4bf; margin-top: 11px;"><a href="Proyecto%20Individual.html"><span
+            style="color: #3366ff;">Proyecto Individual</span></a></li>
+    </ul>
+    <p><span style="color: #570000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+          style="color: #663366;">&nbsp; Haz click en la imagen para escuchar su
+          colaboración con Daft Punk (Instant Crush) </span></span><span style="color: #663366;">&nbsp;&nbsp;&nbsp;
+        </span></p>
+    <p style="background-color: #f9ca20;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=a5uQMwRMHcs"><img
+          src="file:///C:/Users/ALUMNO/Downloads/Instant%20crush.jpg" alt="g" title="g"
+          longdesc="g" style="width: 339px; height: 189px;"></a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Retrato de Julian Casablancas
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img src="file:///C:/Users/ALUMNO/Downloads/Julian%20Casablancas.jpg"
+        alt="y" title="y" longdesc="y" style="width: 414px; height: 261px;"></p>
+    <p><br>
+    </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
+    <ul>
+    </ul>
+  </body>
+</html>
